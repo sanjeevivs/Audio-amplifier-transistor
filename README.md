@@ -28,10 +28,9 @@ The audio amplifier successfully amplified the input audio signal to an audible 
 
 ## 🚀 How to Build:
 1. Gather components from `components_list.txt`.
-2. Follow the breadboard layout in `images/breadboard_layout.jpg`.
-3. Connect components as per `connection_instructions.md`.
-4. Power the circuit with a stable +5V source.
-5. Play an audio signal from a headphone jack and hear the amplified output on the speaker.
+2. Connect components as per `connection_instructions.md`.
+3. Power the circuit with a stable +5V source.
+4. Play an audio signal from a headphone jack and hear the amplified output on the speaker.
 
 
 ## 📸 Team Mates:
