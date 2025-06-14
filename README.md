@@ -34,7 +34,7 @@ The audio amplifier successfully amplified the input audio signal to an audible 
 5. Play an audio signal from a headphone jack and hear the amplified output on the speaker.
 
 
-## 📸 Credits:
+## 📸 Team Mates:
 - Sabareeshwaran G
 - Sanjeev Pranesh
 - Suganthan K M
