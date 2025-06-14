@@ -28,7 +28,7 @@ The audio amplifier successfully amplified the input audio signal to an audible 
 
 ## 🚀 How to Build:
 1. Gather components from `components_list.txt`.
-2. Connect components as per `connection_instructions.md`.
+2. Connect components as per `audio_amp_ckt.jpg`.
 3. Power the circuit with a stable +5V source.
 4. Play an audio signal from a headphone jack and hear the amplified output on the speaker.
 
